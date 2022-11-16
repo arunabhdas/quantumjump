@@ -1,2 +1,6 @@
-# quantumjump
-Quantum Jump is a 2D game
+# QuantumLeap
+Quantum Leap is a 2D game
+
+Screenshots
+
+
